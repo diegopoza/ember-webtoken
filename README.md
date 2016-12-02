@@ -24,7 +24,7 @@ bower install
 And finally:
 
 ````
-ember serve.
+ember serve
 ````
 
 For the application to work properly, you must also get and run Auth0's  
